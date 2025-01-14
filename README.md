@@ -174,7 +174,7 @@ Olá, meu nome é Paulo Henrique Trentin, tenho 19 anos e sou natural do Rio Gra
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenriqueTrentin&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 
