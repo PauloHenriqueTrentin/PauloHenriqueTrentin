@@ -4,7 +4,7 @@
 
 Olá, meu nome é Paulo Henrique Trentin, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando o 5º semestre de Sistemas de Informação na Unochapecó. Tenho um grande interesse nas áreas de DevOps e cibersegurança, que são os meus objetivos profissionais a longo prazo. No momento, atuo como desenvolvedor de software, adquirindo experiência prática e expandindo meus conhecimentos no desenvolvimento e na implementação de soluções tecnológicas.
 
----
+#
 
 <p align="left">
     <a href="https://www.linkedin.com/in/paulo-henrique-trentin-641425341/">
