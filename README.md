@@ -37,13 +37,145 @@ Olá, meu nome é Paulo Henrique Trentin, tenho 19 anos e sou natural do Rio Gra
     </a>
 </p>
 
+---
 
+### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left"
+    alt="C"
+    title="C"
+    width="28px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
 
+<img 
+    align="left"
+    alt="Swift"
+    title="Swift"
+    width="28px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"
+/>
 
+<img 
+    align="left"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="28px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
 
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="28px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
 
+<img 
+    align="left"
+    alt="Git"
+    title="Git"
+    width="28px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
 
+<img 
+    align="left"
+    alt="PHP"
+    title="PHP"
+    width="28px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
 
+<img 
+    align="left"
+    alt="Node.js"
+    title="Node.js"
+    width="28px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+/>
 
+<img 
+    align="left"
+    alt="Arduino"
+    title="Arduino"
+    width="28px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
+/>
 
+<img 
+    align="left"
+    alt="Postman"
+    title="Postman"
+    width="28px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
+
+<img 
+    align="left"
+    alt="Next.js"
+    title="Next.js"
+    width="28px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+/>
+
+<img 
+    align="left"
+    alt="SonarQube"
+    title="SonarQube"
+    width="28px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg"
+/>
+
+<img 
+    align="left"
+    alt="Jenkins"
+    title="Jenkins"
+    width="28px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
+/>
+
+<img 
+    align="left"
+    alt="C++"
+    title="C++"
+    width="28px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+/>
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=PauloHenriqueTrentin&show_icons=true&theme=gruvbox&=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenriqueTrentin&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+
+</p>
