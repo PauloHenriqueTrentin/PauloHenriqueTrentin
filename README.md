@@ -61,8 +61,8 @@ Olá, meu nome é Paulo Henrique Trentin, tenho 19 anos e sou natural do Rio Gra
 
 <img 
     align="left"
-    alt="PostgreSQL"
-    title="PostgreSQL"
+    alt="SQL Server"
+    title="SQL Server"
     width="28px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
