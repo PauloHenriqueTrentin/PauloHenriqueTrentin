@@ -33,7 +33,7 @@ Olá, meu nome é Paulo Henrique Trentin, tenho 19 anos e sou natural do Rio Gra
     <a href="mailto:paulotrentinctt@gmail.com?subject=Quero%20falar%20com%20voc%C3%AA!&body=Ol%C3%A1%2C%20Paulo!%20Tudo%20bem%20com%20voc%C3%AA!%3F%20Peguei%20seu%20E-mail%20atrav%C3%A9s%20do%20GitHub%20%F0%9F%98%80">
         <img 
             alt="Gmail" 
-            title="Entre em contato via E-mail" 
+            title="Entre em contato comigo via E-mail" 
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
