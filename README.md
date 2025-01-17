@@ -14,6 +14,7 @@ Olá, meu nome é Paulo Henrique Trentin, tenho 19 anos e sou natural do Rio Gra
             alt="LinkedIn" 
             title="Visite meu perfil no LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&labelColor=0077B5"
+            style="margin-right: 15px;"
         />
     </a>
     <a href="https://w.app/PauloHenriqueTrentin">
@@ -21,6 +22,7 @@ Olá, meu nome é Paulo Henrique Trentin, tenho 19 anos e sou natural do Rio Gra
             alt="WhatsApp" 
             title="Entre em contato comigo pelo WhatsApp" 
             src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&labelColor=25D366"
+            style="margin-right: 15px;"
         />
     </a>
     <a href="https://github.com/PauloHenriqueTrentin">
@@ -28,6 +30,7 @@ Olá, meu nome é Paulo Henrique Trentin, tenho 19 anos e sou natural do Rio Gra
             alt="GitHub" 
             title="Me siga no GitHub" 
             src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&labelColor=100000"
+            style="margin-right: 15px;"
         />
     </a>
     <a href="mailto:paulotrentinctt@gmail.com?subject=Quero%20falar%20com%20voc%C3%AA!&body=Ol%C3%A1%2C%20Paulo!%20Tudo%20bem%20com%20voc%C3%AA!%3F%20Peguei%20seu%20E-mail%20atrav%C3%A9s%20do%20GitHub%20%F0%9F%98%80">
@@ -35,6 +38,7 @@ Olá, meu nome é Paulo Henrique Trentin, tenho 19 anos e sou natural do Rio Gra
             alt="Gmail" 
             title="Entre em contato comigo via E-mail" 
             src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&labelColor=D14836"
+            style="margin-right: 15px;"
         />
     </a>
 </p>
