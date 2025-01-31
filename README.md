@@ -6,7 +6,6 @@ Olá, meu nome é Paulo Henrique Trentin, tenho 19 anos e sou natural do Rio Gra
 
 📩 Entre em contato comigo via E-mail: paulotrentinctt@gmail.com
 
-#
 
 <p align="left">
     <a href="https://www.linkedin.com/in/paulo-henrique-trentin-641425341/">
