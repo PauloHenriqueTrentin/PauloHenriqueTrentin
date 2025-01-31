@@ -9,7 +9,7 @@ Olá, meu nome é Paulo Henrique Trentin, tenho 19 anos e sou natural do Rio Gra
 #
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/paulo-henrique-trentin-641425341/">
+    <a href="https://www.linkedin.com/in/paulohenriquetrentin/">
         <img 
             alt="LinkedIn" 
             title="Visite meu perfil no LinkedIn" 
