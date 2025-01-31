@@ -4,7 +4,7 @@
 
 Olá, meu nome é Paulo Henrique Trentin, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando o 5º semestre de Sistemas de Informação na Unochapecó. Tenho um grande interesse nas áreas de DevOps e Segurança Cibernética, que são os meus objetivos profissionais a longo prazo. No momento, atuo como desenvolvedor de software, adquirindo experiência prática e expandindo meus conhecimentos no desenvolvimento e na implementação de soluções tecnológicas.
 
-📭 Entre em contato comigo via E-mail: paulotrentinctt@gmail.com
+📩 Entre em contato comigo via E-mail: paulotrentinctt@gmail.com
 
 #
 
@@ -43,123 +43,48 @@ Olá, meu nome é Paulo Henrique Trentin, tenho 19 anos e sou natural do Rio Gra
 
 ### 🤖 Linguagens e Tecnologias que eu já utilizei
 
-<img 
-    align="left"
-    alt="C"
-    title="C"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
+<p>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+        <img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    </a>
+    <a href="https://developer.apple.com/swift/">
+        <img align="left" alt="Swift" title="Swift" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server">
+        <img align="left" alt="SQL Server" title="SQL Server" width="28px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+    </a>
+    <a href="https://www.python.org/">
+        <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+    </a>
+    <a href="https://git-scm.com/">
+        <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+    </a>
+    <a href="https://www.php.net/">
+        <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+    </a>
+    <a href="https://nodejs.org/">
+        <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
+    </a>
+    <a href="https://www.arduino.cc/">
+        <img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
+    </a>
+    <a href="https://www.postman.com/">
+        <img align="left" alt="Postman" title="Postman" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
+    </a>
+    <a href="https://nextjs.org/">
+        <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
+    </a>
+    <a href="https://isocpp.org/">
+        <img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+    </a>
+</p>
 
-<img 
-    align="left"
-    alt="Swift"
-    title="Swift"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="SQL Server"
-    title="SQL Server"
-    width="28px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
-/>
-
-<img 
-    align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="PHP"
-    title="PHP"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="Node.js"
-    title="Node.js"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-/>
-
-<img 
-    align="left"
-    alt="Arduino"
-    title="Arduino"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="Postman"
-    title="Postman"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="Next.js"
-    title="Next.js"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-/>
-
-<img 
-    align="left"
-    alt="C++"
-    title="C++"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-/>
 <br/>
 <br/>
 
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=PauloHenriqueTrentin&show_icons=true&theme=gruvbox&=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="125" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenriqueTrentin&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
-
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=PauloHenriqueTrentin&show_icons=true&theme=gruvbox&=true&locale=pt-br" />
+  <img align="left" alt="GitHub Stats" height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloHenriqueTrentin&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
