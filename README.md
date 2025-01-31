@@ -19,7 +19,7 @@ Olá, meu nome é Paulo Henrique Trentin, tenho 19 anos e sou natural do Rio Gra
     <a href="https://wa.me/5554996270214?text=Ol%C3%A1%2C%20Paulo!%20Peguei%20seu%20contato%20atrav%C3%A9s%20do%20GitHub!">
         <img 
             alt="WhatsApp" 
-            title="Entre em contato comigo pelo WhatsApp" 
+            title="Entre em contato comigo via WhatsApp" 
             src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
         />
     </a>
