@@ -10,30 +10,30 @@ Olá, meu nome é Paulo Henrique Trentin, tenho 19 anos e sou natural do Rio Gra
 
 <p align="left">
     <a href="https://www.linkedin.com/in/paulohenriquetrentin/">
-        <img 
-            alt="LinkedIn" 
-            title="Visite meu perfil no LinkedIn" 
+        <img
+            alt="LinkedIn"
+            title="Visite meu perfil no LinkedIn"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="https://wa.me/5554996270214?text=Ol%C3%A1%2C%20Paulo!%20Peguei%20seu%20contato%20atrav%C3%A9s%20do%20GitHub!">
-        <img 
-            alt="WhatsApp" 
-            title="Entre em contato comigo via WhatsApp" 
+        <img
+            alt="WhatsApp"
+            title="Entre em contato comigo via WhatsApp"
             src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
         />
     </a>
     <a href="https://github.com/PauloHenriqueTrentin">
-        <img 
-            alt="GitHub" 
-            title="Me siga no GitHub" 
+        <img
+            alt="GitHub"
+            title="Me siga no GitHub"
             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
     <a href="mailto:paulotrentinctt@gmail.com?subject=Quero%20falar%20com%20voc%C3%AA!&body=Ol%C3%A1%2C%20Paulo!%20Tudo%20bem%20com%20voc%C3%AA!%3F%20Peguei%20seu%20E-mail%20atrav%C3%A9s%20do%20GitHub%20%F0%9F%98%80">
-        <img 
-            alt="Gmail" 
-            title="Entre em contato comigo via E-mail (Esse botão só funciona em dispositivos móveis)" 
+        <img
+            alt="Gmail"
+            title="Entre em contato comigo via E-mail (Esse botão só funciona em dispositivos móveis)"
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
@@ -50,8 +50,8 @@ Olá, meu nome é Paulo Henrique Trentin, tenho 19 anos e sou natural do Rio Gra
     <a href="https://developer.apple.com/swift/">
         <img align="left" alt="Swift" title="Swift" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
     </a>
-    <a href="https://www.microsoft.com/en-us/sql-server">
-        <img align="left" alt="SQL Server" title="SQL Server" width="28px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+    <a href="https://www.mysql.com/">
+        <img align="left" alt="MySQL" title="MySQL" width="28px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
     </a>
     <a href="https://www.python.org/">
         <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -71,11 +71,8 @@ Olá, meu nome é Paulo Henrique Trentin, tenho 19 anos e sou natural do Rio Gra
     <a href="https://www.postman.com/">
         <img align="left" alt="Postman" title="Postman" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
     </a>
-    <a href="https://nextjs.org/">
-        <img align="left" alt="Next.js" title="Next.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-    </a>
-    <a href="https://isocpp.org/">
-        <img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
     </a>
 </p>
 
